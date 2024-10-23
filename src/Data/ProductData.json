@@ -1,0 +1,525 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999,
+      "description": "15-inch laptop with 16GB RAM and 512GB SSD.",
+      "category": "Electronics",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 699,
+      "description": "Latest smartphone with dual camera and 128GB storage.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1556013945-9f69f53c1f07"
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch",
+      "price": 199,
+      "description": "Fitness smartwatch with heart rate monitor and GPS.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1540078042165-1002c3a08c02"
+    },
+    {
+      "id": 4,
+      "name": "Headphones",
+      "price": 149,
+      "description": "Noise-cancelling over-ear headphones.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1542125563-1a0662f34c76"
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "price": 79,
+      "description": "Portable Bluetooth speaker with powerful sound.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1518881293976-9b0f83c450f5"
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "price": 499,
+      "description": "Mirrorless camera with 24MP sensor.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1518113608224-f5f209b62c36"
+    },
+    {
+      "id": 7,
+      "name": "Tablet",
+      "price": 399,
+      "description": "10-inch tablet with 64GB storage.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1560504502-6c6fbbdbe190"
+    },
+    {
+      "id": 8,
+      "name": "Gaming Console",
+      "price": 499,
+      "description": "Latest gaming console with 4K support.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1627803383878-202bafc87896"
+    },
+    {
+      "id": 9,
+      "name": "Smart TV",
+      "price": 799,
+      "description": "55-inch 4K Smart TV with HDR.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1584083933803-c2f58a823a86"
+    },
+    {
+      "id": 10,
+      "name": "Keyboard",
+      "price": 69,
+      "description": "Mechanical keyboard with customizable RGB lighting.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1561979566-516dc7a63816"
+    },
+    {
+      "id": 11,
+      "name": "Gaming Mouse",
+      "price": 59,
+      "description": "High-precision gaming mouse with ergonomic design.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1563201515-dc4d62769d45"
+    },
+    {
+      "id": 12,
+      "name": "Portable SSD",
+      "price": 129,
+      "description": "1TB portable SSD with USB 3.1 interface.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1508928706617-15a2c9f8aeb1"
+    },
+    {
+      "id": 13,
+      "name": "VR Headset",
+      "price": 399,
+      "description": "Virtual reality headset for immersive gaming.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1517502166822-80f75d5d29b2"
+    },
+    {
+      "id": 14,
+      "name": "Smart Home Hub",
+      "price": 99,
+      "description": "Smart hub to control your connected devices.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1582512763191-96c3e8476c11"
+    },
+    {
+      "id": 15,
+      "name": "Digital Camera",
+      "price": 899,
+      "description": "Digital camera with high zoom capability.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593642632743-df38f6e83d6e"
+    },
+    {
+      "id": 16,
+      "name": "Leather Jacket",
+      "price": 299,
+      "description": "Stylish leather jacket for men.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1511918984140-1079b72b3c8d"
+    },
+    {
+      "id": 17,
+      "name": "T-shirt",
+      "price": 29,
+      "description": "Cotton t-shirt with a round neck.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1585165301517-bf8d1e00412d"
+    },
+    {
+      "id": 18,
+      "name": "Jeans",
+      "price": 79,
+      "description": "Comfortable and stylish denim jeans.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664"
+    },
+    {
+      "id": 19,
+      "name": "Sneakers",
+      "price": 89,
+      "description": "Trendy sneakers for everyday wear.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1597711457332-6a9089d7ae0b"
+    },
+    {
+      "id": 20,
+      "name": "Sunglasses",
+      "price": 49,
+      "description": "Stylish sunglasses with UV protection.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1521948453197-07f1b8d4b2ee"
+    },
+    {
+      "id": 21,
+      "name": "Handbag",
+      "price": 199,
+      "description": "Elegant handbag for women.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1517466749886-5fffa45d3f42"
+    },
+    {
+      "id": 22,
+      "name": "Watches",
+      "price": 149,
+      "description": "Luxury watch with leather strap.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1609624588474-64aa91b6310d"
+    },
+    {
+      "id": 23,
+      "name": "Scarf",
+      "price": 29,
+      "description": "Warm scarf for winter.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1515136532390-f78a27c4907d"
+    },
+    {
+      "id": 24,
+      "name": "Suit",
+      "price": 399,
+      "description": "Tailored suit for formal occasions.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1566886853843-89c49c6e4f7e"
+    },
+    {
+      "id": 25,
+      "name": "Pajamas",
+      "price": 49,
+      "description": "Comfortable pajamas for lounging.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1590424486416-9abfcd11cfe4"
+    },
+    {
+      "id": 26,
+      "name": "Winter Coat",
+      "price": 199,
+      "description": "Warm winter coat with hood.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1567126633557-06eafc36a55f"
+    },
+    {
+      "id": 27,
+      "name": "Flip Flops",
+      "price": 19,
+      "description": "Comfortable flip flops for summer.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1612429911545-2ff154572c9f"
+    },
+    {
+      "id": 28,
+      "name": "Belt",
+      "price": 25,
+      "description": "Classic leather belt for men.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1571820841005-d80f265f4c0e"
+    },
+    {
+      "id": 29,
+      "name": "Dress",
+      "price": 99,
+      "description": "Elegant evening dress for women.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79"
+    },
+    {
+      "id": 30,
+      "name": "Wallet",
+      "price": 69,
+      "description": "Leather wallet with multiple card slots.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1566210116317-30fcf6f789c7"
+    },
+        {
+          "id": 31,
+          "name": "Sneakers",
+          "price": 109,
+          "description": "High-top sneakers with premium design.",
+          "category": "Fashion",
+          "image": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c"
+        },
+        {
+          "id": 32,
+          "name": "Backpack",
+          "price": 59,
+          "description": "Durable backpack with multiple compartments.",
+          "category": "Fashion",
+          "image": "https://images.unsplash.com/photo-1519638399535-1b036603ac77"
+        },
+        {
+          "id": 33,
+          "name": "Trousers",
+          "price": 89,
+          "description": "Slim-fit trousers for casual wear.",
+          "category": "Fashion",
+          "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3db8"
+        },
+        {
+          "id": 34,
+          "name": "Blazer",
+          "price": 199,
+          "description": "Formal blazer with modern fit.",
+          "category": "Fashion",
+          "image": "https://images.unsplash.com/photo-1516205651411-aef33a44f744"
+        },
+        {
+          "id": 35,
+          "name": "Socks",
+          "price": 19,
+          "description": "Comfortable cotton socks in a pack of three.",
+          "category": "Fashion",
+          "image": "https://images.unsplash.com/photo-1525967733981-e1b165b9c9f0"
+        },
+        {
+          "id": 36,
+          "name": "Cap",
+          "price": 29,
+          "description": "Baseball cap with adjustable strap.",
+          "category": "Fashion",
+          "image": "https://images.unsplash.com/photo-1529634588115-3b9c17e7859c"
+        },
+        {
+          "id": 37,
+          "name": "Bracelet",
+          "price": 49,
+          "description": "Gold-plated bracelet for women.",
+          "category": "Fashion",
+          "image": "https://images.unsplash.com/photo-1585110396000-04059806909c"
+        },
+        {
+          "id": 38,
+          "name": "Laptop Bag",
+          "price": 79,
+          "description": "Water-resistant laptop bag with extra padding.",
+          "category": "Accessories",
+          "image": "https://images.unsplash.com/photo-1595832644920-e554f616b78e"
+        },
+        {
+          "id": 39,
+          "name": "Coffee Maker",
+          "price": 89,
+          "description": "Automatic coffee maker with multiple brewing settings.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1556910103-1b116a79327a"
+        },
+        {
+          "id": 40,
+          "name": "Vacuum Cleaner",
+          "price": 149,
+          "description": "Powerful vacuum cleaner with HEPA filter.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1570986262528-2b69c738dc0b"
+        },
+        {
+          "id": 41,
+          "name": "Air Purifier",
+          "price": 199,
+          "description": "Smart air purifier with real-time air quality monitoring.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1592842814221-296899dc0e4b"
+        },
+        {
+          "id": 42,
+          "name": "Microwave Oven",
+          "price": 129,
+          "description": "Compact microwave oven with pre-programmed settings.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1586201375761-83865001a950"
+        },
+        {
+          "id": 43,
+          "name": "Blender",
+          "price": 69,
+          "description": "High-performance blender with multiple speed settings.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1564849444446-211330e7b4e1"
+        },
+        {
+          "id": 44,
+          "name": "Toaster",
+          "price": 49,
+          "description": "Two-slice toaster with adjustable browning control.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1603930837904-312af47542d7"
+        },
+        {
+          "id": 45,
+          "name": "Dishwasher",
+          "price": 499,
+          "description": "Energy-efficient dishwasher with multiple wash cycles.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1556909191-60b77b9b4a2d"
+        },
+        {
+          "id": 46,
+          "name": "Washing Machine",
+          "price": 699,
+          "description": "Front-load washing machine with smart features.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1589987608503-dc1d3fbf95d9"
+        },
+        {
+          "id": 47,
+          "name": "Refrigerator",
+          "price": 999,
+          "description": "Large capacity refrigerator with frost-free technology.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1595234186561-e1ff572b7f7d"
+        },
+        {
+          "id": 48,
+          "name": "Electric Kettle",
+          "price": 39,
+          "description": "Fast-boiling electric kettle with auto shut-off.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1607411808126-9ff324e1d851"
+        },
+        {
+          "id": 49,
+          "name": "Iron",
+          "price": 59,
+          "description": "Steam iron with non-stick soleplate.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1567607424090-c886dc4d67a1"
+        },
+        {
+          "id": 50,
+          "name": "Ceiling Fan",
+          "price": 89,
+          "description": "Energy-efficient ceiling fan with remote control.",
+          "category": "Home Appliances",
+          "image": "https://images.unsplash.com/photo-1583933723389-b50b11441047"
+        } ,
+            {
+              "id": 51,
+              "name": "Smartwatch",
+              "price": 149,
+              "description": "Fitness tracking smartwatch with heart rate monitor.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+            },
+            {
+              "id": 52,
+              "name": "DSLR Camera",
+              "price": 699,
+              "description": "High-resolution DSLR camera with multiple lenses.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1519183071298-a2962f1c4785"
+            },
+            {
+              "id": 53,
+              "name": "Bluetooth Speaker",
+              "price": 79,
+              "description": "Portable Bluetooth speaker with rich sound.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1512412046878-75c6d3ff09c8"
+            },
+            {
+              "id": 54,
+              "name": "E-Reader",
+              "price": 129,
+              "description": "E-reader with adjustable backlight for reading at night.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+            },
+            {
+              "id": 55,
+              "name": "Gaming Console",
+              "price": 499,
+              "description": "Latest generation gaming console with 4K resolution.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1582191448375-220c06b98f59"
+            },
+            {
+              "id": 56,
+              "name": "Drone",
+              "price": 299,
+              "description": "Quadcopter drone with HD camera and GPS.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1539134990973-5b781f67abed"
+            },
+            {
+              "id": 57,
+              "name": "Wireless Earbuds",
+              "price": 99,
+              "description": "Noise-cancelling wireless earbuds with charging case.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1558898417-14c1f9c9f28b"
+            },
+            {
+              "id": 58,
+              "name": "Smartphone",
+              "price": 999,
+              "description": "Latest smartphone with OLED display and 5G support.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406"
+            },
+            {
+              "id": 59,
+              "name": "Tablet",
+              "price": 349,
+              "description": "Lightweight tablet with long battery life and stylus support.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+            },
+            {
+              "id": 60,
+              "name": "Smart Home Assistant",
+              "price": 79,
+              "description": "Voice-controlled smart home assistant with AI.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1531591414598-85638a10a865"
+            },
+            {
+              "id": 61,
+              "name": "Fitness Tracker",
+              "price": 59,
+              "description": "Waterproof fitness tracker with sleep monitoring.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1521939094609-93aba1af40d4"
+            },
+            {
+              "id": 62,
+              "name": "Gaming Laptop",
+              "price": 1299,
+              "description": "High-performance gaming laptop with dedicated GPU.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1539904315724-e1933da1e878"
+            },
+            {
+              "id": 63,
+              "name": "Smart TV",
+              "price": 799,
+              "description": "4K UHD smart TV with HDR and streaming apps.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1598337210919-36f22f2f8e19"
+            },
+            {
+              "id": 64,
+              "name": "WiFi Router",
+              "price": 129,
+              "description": "Dual-band WiFi router with mesh network support.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1543486958-d783bfbf7f94"
+            },
+            {
+              "id": 65,
+              "name": "External Hard Drive",
+              "price": 89,
+              "description": "1TB external hard drive with USB-C connection.",
+              "category": "Electronics",
+              "image": "https://images.unsplash.com/photo-1539804337523-081d53ab2d88"
+            }
+          ]
+          
+      
+  
